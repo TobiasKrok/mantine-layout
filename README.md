@@ -12,7 +12,7 @@ Inspired by https://github.com/kitze/mantine-layout-components but it did not wo
     debug?: boolean;
   }
 ```
-Use these to apply basic styling like `withh:100%` and `justify-content: center; align-items: center`
+Use these to apply basic styling like `with:100%` and `justify-content: center; align-items: center`
 
 `debug` adds a red border around the element.
 
