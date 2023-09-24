@@ -17,7 +17,7 @@ const Horizontal = forwardRef<HTMLDivElement, React.ComponentPropsWithRef<"div">
       <Stack
         {...props}
         ref={ref}
-        className={classNames({
+        className={classNames(props.className, {
           [css.fullWidth as string]: props.fullWidth,
           [css.fullHeight as string]: props.fullHeight,
           [css.center as string]: props.center,
