@@ -1,0 +1,22 @@
+{
+  "name": "mantine-layout",
+  "version": "1.0.0",
+  "description": "Wrappers for Stack and Group in Mantine with basic common styling properties to speed up development",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasKrok/mantine-layout.git"
+  },
+  "keywords": [
+    "mantine"
+  ],
+  "author": "tobiaskk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobiasKrok/mantine-layout/issues"
+  },
+  "homepage": "https://github.com/TobiasKrok/mantine-layout#readme"
+}
